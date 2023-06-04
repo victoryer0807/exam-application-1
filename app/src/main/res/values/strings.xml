@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exam Application 1</string>
+    <string name="question_article">ВАМ НРАВИТСЯ ЭТА СТАТЬЯ</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="title1">Cry of Shadow</string>
+    <string name="article1">action</string>
+    <string name="yes1">32dp</string>
+    <string name="no1">32dp</string>
+    <string name="Like">yes</string>
+    <string name="dislake">no</string>
+</resources>
